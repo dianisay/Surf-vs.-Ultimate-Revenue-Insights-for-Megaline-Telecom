@@ -74,11 +74,6 @@ The findings provide actionable insights into customer behavior and tariff profi
 
 ---
 
-## 📈 Sample Visualization
-_Add plots comparing plan usage, revenue distributions, and hypothesis test results._  
-
----
-
 ## 🤝 Contact
 Created by **[Your Name]**  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
