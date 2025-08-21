@@ -76,4 +76,4 @@ The findings provide actionable insights into customer behavior and tariff profi
 
 ## 🤝 Contact
 Created by **[Your Name]**  
-🔗 [LinkedIn](https://www.linkedin.com/in/dianisay/) | [Portfolio](https://yourportfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/dianisay/) | [Portfolio](https://github.com/dianisay)
