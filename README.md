@@ -7,13 +7,15 @@ The goal is to determine which plan generates higher average revenue and whether
 ---
 
 ## 📂 Dataset
+
+**Cloud Services:** AWS S3 (data hosting and retrieval). 
 The analysis uses five CSV files with customer and usage data:
 
-1. **megaline_users.csv** – customer demographics and tariff plan  
-2. **megaline_calls.csv** – call records with durations  
-3. **megaline_messages.csv** – SMS activity  
-4. **megaline_internet.csv** – web sessions and data usage  
-5. **megaline_plans.csv** – tariff plan details  
+1. **megaline_users.csv** – customer demographics and tariff plan  [Download](https://code.s3.yandex.net/datasets/megaline_users.csv)
+2. **megaline_calls.csv** – call records with durations  [Download](https://code.s3.yandex.net/datasets/megaline_calls.csv)
+3. **megaline_messages.csv** – SMS activity  [Download](https://code.s3.yandex.net/datasets/megaline_messages.csv)
+4. **megaline_internet.csv** – web sessions and data usage  [Download](https://code.s3.yandex.net/datasets/megaline_internet.csv)
+5. **megaline_plans.csv** – tariff plan details  [Download](https://code.s3.yandex.net/datasets/megaline_plans.csv)
 
 ---
 
