@@ -77,5 +77,5 @@ The findings provide actionable insights into customer behavior and tariff profi
 ---
 
 ## 🤝 Contact
-Created by **[Your Name]**  
+Created by **Diana Paola Ayala Roldán**  
 🔗 [LinkedIn](https://www.linkedin.com/in/dianisay/) | [Portfolio](https://github.com/dianisay)
